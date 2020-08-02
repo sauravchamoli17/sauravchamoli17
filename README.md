@@ -21,7 +21,7 @@
 
 ## Recent Projects
 <p>
-<a href="https://talabcafe,in" target="blank">A restaurant website!</a>
+<a href="https://talabcafe,in" target="blank">Talab Cafe & Restaurant's Website!</a>
 </p>
 
 
