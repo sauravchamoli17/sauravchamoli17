@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17" alt="sauravchamoli17" /> </p>
 
-- 🔭 I’m currently working on **To Do List - React!**
+- 🔭 I’m currently working on **Frontend Mentor Challenge**
 
-- 🌱 I’m currently learning **React JS, PHP, Node JS.**
+- 🌱 I’m currently learning **MERN STACK.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sauravchamoli17](https://github.com/sauravchamoli17)
 
