@@ -21,7 +21,7 @@
 
 ## Recent Projects
 <p>
-<a href="https://talabcafe.in" target="blank">Talab Cafe & Restaurant's Website!</a>
+<a href="https://sauravchamoli17.github.io/Typing-Speed-Test/" target="blank">Typing Speed Checker</a>
 </p>
 
 
