@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17" alt="sauravchamoli17" /> </p>
 
-- 🔭 I’m currently working on **Javascript 30 Course**
+- 🔭 I’m currently working on **Javascript 30 Course.**
 
 - 🌱 I’m currently learning **MERN STACK.**
 
