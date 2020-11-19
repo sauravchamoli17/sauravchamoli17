@@ -26,7 +26,7 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sauravchamoli17&show_icons=true" alt="sauravchamoli17" /></p>
 </details>
 
-## My Wakatime
+## Coding Activity
 
 <p align="center"> <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="400" alt="My Wakatime" /> </p>
 
