@@ -21,7 +21,7 @@
 
 ## Recent Projects
 <p>
-<a href="https://sauravchamoli17.github.io/Typing-Speed-Test/" target="_blank">Typing Speed Checker</a>
+<a href="https://sauravchamoli17.github.io/Speech-Synthesis/" target="_blank">Speech Synthesizer</a>
 </p>
 
 
