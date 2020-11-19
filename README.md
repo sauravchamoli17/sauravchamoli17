@@ -24,6 +24,7 @@
 <a href="https://sauravchamoli17.github.io/Speech-Synthesis/" target="_blank">Speech Synthesizer</a>
 </p>
 
+<img src="https://github.com/avinal/sauravchamoli17/blob/main/images/stat.svg" alt="My WakaTime Activity"/>
 
 ## Social
 <p align="center">
