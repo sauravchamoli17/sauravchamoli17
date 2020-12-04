@@ -45,6 +45,7 @@
 <a href="https://dev.to/sauravchamoli17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sauravchamoli17" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/saurav-chamoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="30" /></a>
 <a href="https://stackexchange.com/users/15573812/saurav-chamoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="saurav-chamoli" height="30" width="30" /></a>
+<a href="https://exercism.io/profiles/sauravchamoli17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg" alt="saurav-chamoli" height="30" width="30" /></a>  
 <!-- <a href="https://dribbble.com/saurav17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="saurav17" height="30" width="30" /></a>
 <a href="https://www.behance.net/sauravchamoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="sauravchamoli" height="30" width="30" /></a> -->
 </p>
