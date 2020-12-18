@@ -36,7 +36,7 @@
 
 ## Recent Projects
 <p>
-<a href="https://sauravchamoli17.github.io/Speech-Synthesis/" target="_blank">Speech Synthesizer</a>
+<a href="https://sauravchamoli17.github.io/Whack-A-Mole/" target="_blank">Whack A Mole</a>
 </p>
 
 ## Social
