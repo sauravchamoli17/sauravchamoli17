@@ -36,7 +36,7 @@
 
 ## Recent Projects
 <p>
-<a href="https://sauravchamoli17.github.io/Whack-A-Mole/" target="_blank">Whack A Mole</a>
+<a href="https://github.com/sauravchamoli17/Countries-and-States" target="_blank">Countries and States</a>
 </p>
 
 ## Social
