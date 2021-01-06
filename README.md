@@ -20,7 +20,7 @@
 
 <h3 align="left">Github Stats</h3>
 <details>
- <summary></summary>
+ <summary>See Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravchamoli17&show_icons=true&locale=en" alt="sauravchamoli17" /></p>
 </details>
 
