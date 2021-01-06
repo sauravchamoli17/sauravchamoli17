@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">An aspiring fullstack developer from India.</h3>
+<h1 align="left">Hi 👋, I'm Saurav</h1>
+<h3 align="left">An aspiring fullstack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravchamoli17" alt="sauravchamoli17" /></a> </p>
 
 - 🔭 I’m currently working on **ES6 Course.**
 
@@ -38,7 +36,7 @@
 </details>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/sauravchamoli17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sauravchamoli17" height="30" width="40" /></a>
 <a href="https://dev.to/sauravchamoli17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sauravchamoli17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurav-chamoli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="40" /></a>
