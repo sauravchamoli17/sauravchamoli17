@@ -20,8 +20,7 @@
 
 <h3 align="left">Github Stats</h3>
 <details>
- <summary>Repo and languages Used</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravchamoli17&show_icons=true&locale=en&layout=compact" alt="sauravchamoli17" /></p>
+ <summary></summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravchamoli17&show_icons=true&locale=en" alt="sauravchamoli17" /></p>
 </details>
 
