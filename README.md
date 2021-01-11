@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 📝 I regularly write articles on [https://sauravchamoli17.medium.com/](https://sauravchamoli17.medium.com/)
-
 - 💬 Ask me about **HTML,CSS,JS.**
 
 - 📫 How to reach me **sauravchamoli17@gmail.com**
