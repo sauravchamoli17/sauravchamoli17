@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Saurav</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Saurav</h1>
 <h3 align="left">An aspiring fullstack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
