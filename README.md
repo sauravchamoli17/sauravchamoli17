@@ -20,12 +20,6 @@
 <h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravchamoli17&" alt="sauravchamoli17" /></p>
 
-<p>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=u72bkq9pkwey82nfg4vshg377&amp;redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=u72bkq9pkwey82nfg4vshg377&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile">
-  </a>
-</p>
-
 <h3 align="left">Coding Activity</h3>
 <details>
   <summary>Wakatime Stats</summary>
