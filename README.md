@@ -20,8 +20,7 @@
 <h3 align="left">Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravchamoli17&" alt="sauravchamoli17" /></p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=u72bkq9pkwey82nfg4vshg377&redirect=true]
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=u72bkq9pkwey82nfg4vshg377&cover_image=true&theme=default)]]
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=u72bkq9pkwey82nfg4vshg377&redirect=true" alt="Spotify" />
 
 <h3 align="left">Coding Activity</h3>
 <details>
