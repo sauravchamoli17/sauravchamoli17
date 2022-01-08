@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React, React Native, REST API, PHP.**
+- 💬 Ask me about **React, React Native, Node.js, Javascript.**
 
 - 📫 How to reach me **sauravchamoli17@gmail.com**
 
