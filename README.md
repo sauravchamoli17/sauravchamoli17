@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
 
-- 🔭 I’m currently working on **React Native Mobile Apps**
+- 🔭 I’m currently working on **Dapps**
 
 - 🌱 I’m currently learning **Blockchain Development**
 
