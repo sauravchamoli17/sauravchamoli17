@@ -16,7 +16,7 @@
 
 <h3 id="spotify-playing-">Apple Music Playing 🎧</h3>
 <p>
-  <a href="https://open.spotify.com/user/u72bkq9pkwey82nfg4vshg377">
+  <a href="https://now-playing.jimmyclchu.com/w/ds1hjwitcL">
    <img src="https://now-playing.jimmyclchu.com/w/ds1hjwitcL" alt="Saurav Apple Music Playing" width="350" />
   </a>
 </p>
